@@ -16,10 +16,6 @@ _2014, Beijing, China_
 
 <img src="/files/2014-Beijing-China.JPG" width="700">
 
-_2014, Beijing, China_
-
-<img src="/files/2014-Beijing-China.png" width="700">
-
 _2015, Beijing, China_
 
 <img src="/files/2015-Beijing.JPG" width="700">
