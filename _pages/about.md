@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, my name is Jungmin Han."
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
