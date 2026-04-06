@@ -27,7 +27,7 @@ War Duration" (**R&R** at _Security Studies_): [[Link](https://www.dropbox.com/s
   * **Han, Jungmin** and Hyunjung Park, State Atrocities, "Rebel Governance, and Public Opinion on Humanitarian Intervention" (_Under Review_): [[Link](https://doi.org/10.31235/osf.io/vzbhe_v1)]
 
 
-## Theme 3: Online Violence during Electoral Campaign
+## Theme 3: International Security and Democratic Backsliding
 
 My future research will focus on the implications of international security in democratic erosion. Reflecting my broader interests in political behavior, democracy, and social media analysis, I have led two projects that analyze millions of social media posts to demonstrate how digital platforms reproduce enduring forms of political violence during electoral campaigns. Building on these works, I have developed a project, introduced through ISA and BISA conferences in 2025, arguing that the global rise of authoritarian states induces a perceptual shift in which democracy is understood not as a set of liberal principles, but as a collective identity defined through international rivalry. Under such identity-based framing, citizens prioritize symbolic alignment and foreign policy toughness toward authoritarian challengers than on adherence to democratic procedures at home, which legitimizes tolerance for illiberal practices and weakens democratic accountability.
 
