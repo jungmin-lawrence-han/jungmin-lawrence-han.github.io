@@ -5,6 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Main Instructor, Research Method in Political Science (undergraduate), University of Pittsburgh, Summer 2021 [[Syllabus](Syllabus_PS0700_Summer2021.pdf)]
+**1. Main Instructor**
 
-Main Instructor, Foundation of Mathematics in Political Science (graduate), University of Pittsburgh, Fall 2020 [[Syllabus](Syllabus_PS1902_Fall2020.pdf)]
+_Research Method in Political Science_ (undergraduate), University of Pittsburgh, Summer 2021 [[Syllabus](Syllabus_PS0700_Summer2021.pdf)]
+
+_Foundation of Mathematics in Political Science_ (graduate), University of Pittsburgh, Fall 2020 [[Syllabus](Syllabus_PS1902_Fall2020.pdf)]
+
+**2. Guest Lectuerer**
+
+_Experimental and Observational Studies in International Relations_ (undergraduate), University of Pittsburgh, Fall 2023
+
+_U.S. Foreign Policy in the Asia-Pacific_ (undergraduate), University of Pittsburgh, Spring 2021
+
+_Content Analysis and Big Data_ (undergraduate), University of Pittsburgh: Spring 2020, Fall 2021
