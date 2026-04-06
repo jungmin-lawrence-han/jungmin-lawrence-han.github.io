@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jungmin Han's Personal Website"
+title                    : "Jungmin Han's Website"
 title_separator          : "-"
 name                     : &name "Jungmin Han"
 description              : &description "Jungmin Han's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
