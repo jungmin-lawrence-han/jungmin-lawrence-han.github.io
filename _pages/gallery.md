@@ -44,11 +44,11 @@ _2015, Xian, China_
 
 <img src="/files/2015-Xian-China3.JPG" width="700">
 
-_2016, Seohyun, South Korea
+_2016, Seohyun, South Korea_
 
 <img src="/files/2016-Seohyun-SouthKorea.JPG" width="700">
 
-_2017, Singapore
+_2017, Singapore_
 
 <img src="/files/2017-Singapore.JPG" width="700">
 
