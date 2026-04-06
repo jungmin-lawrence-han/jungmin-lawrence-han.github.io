@@ -11,5 +11,5 @@ Each image is a memory of a place, a moment, or a feeling I wanted to hold onto.
 
 _2024, Andong, South Korea_
 
-<img src="/files/2023-andong-southkorea.png" width="500">
+<img src="/files/2023-andong-southkorea.png" width="700">
 
