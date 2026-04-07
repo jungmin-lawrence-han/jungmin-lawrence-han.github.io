@@ -48,7 +48,7 @@ _2017, Singapore_
 
 <img src="/files/2017-Singapore.JPG" width="700">
 
-_2024, Andong, South Korea_
+_2023, Jeonju, South Korea_
 
 <img src="/files/2023-andong-southkorea.png" width="700">
 
