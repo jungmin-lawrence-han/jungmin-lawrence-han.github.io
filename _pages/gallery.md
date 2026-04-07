@@ -168,10 +168,6 @@ _2025, Madrid, Spain_
 
 <img src="/files/2025-Madrid-Spain2.jpeg" width="600">
 
-_2025, Munich, Germany_
-
-<img src="/files/2025-Munich-Germany.jpeg" width="600">
-
 _2025, Giant's Causeway, Northern Ireland_
 
 <img src="/files/2025-Causeway-UK.jpeg" width="600">
@@ -196,8 +192,30 @@ _2025, Edinburgh, Scotland_
 
 <img src="/files/2025-Edinburgh-Scotland2.jpeg" width="600">
 
+_2025, Edinburgh, Scotland_
+
+<img src="/files/2024-Edinbutgh-Scotland.jpeg" width="600">
+
+_2025, Munich, Germany_
+
+<img src="/files/2025-Munich-Germany.jpeg" width="600">
+
+_2025, Munich, Germany_
+
+<img src="/files/2024-Munich-Germany.jpeg" width="600">
+
+_2025, Munich, Germany_
+
+<img src="/files/2024-Munich-Germany2.jpeg" width="600">
+
 _2026, Athens, Greece_
 
 <img src="/files/2026-Athens-Greece2.jpeg" width="600">
 
+_2026, Oxford, UK_
 
+<img src="/files/2026-Oxford-UK.jpeg" width="600">
+
+_2026, Oxford, UK_
+
+<img src="/files/2026-Oxford-UK2.jpeg" width="600">
