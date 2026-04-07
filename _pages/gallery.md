@@ -62,7 +62,7 @@ _2021, Orlando, USA_
 
 _2022, San Diego, USA_
 
-<img src="/files/2022-SanDiego-USA.JPG" width="700">
+<img src="/files/2022-SanDiego-USA.jpeg" width="700">
 
 _2023, Denver, USA_
 
