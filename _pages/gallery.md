@@ -58,7 +58,7 @@ _2019, Cleveland, USA_
 
 _2021, Orlando, USA_
 
-<img src="/files/2021-Orlando-USA.JPG" width="700">
+<img src="/files/2021-Orlando-USA.jpeg" width="700">
 
 _2022, San Diego, USA_
 
@@ -66,19 +66,19 @@ _2022, San Diego, USA_
 
 _2023, Denver, USA_
 
-<img src="/files/2023-Denver-USA.JPG" width="700">
+<img src="/files/2023-Denver-USA.jpeg" width="700">
 
 _2023, Los Angeles, USA_
 
-<img src="/files/2023-LA-USA.JPG" width="700">
+<img src="/files/2023-LA-USA.jpeg" width="700">
 
 _2023, Niagara Fall, USA_
 
-<img src="/files/2023-Niagara-USA.JPG" width="700">
+<img src="/files/2023-Niagara-USA.jpeg" width="700">
 
 _2023, Washington D.C., USA_
 
-<img src="/files/2023-Washington D.C.-USA.JPG" width="700">
+<img src="/files/2023-Washington D.C.-USA.jpeg" width="700">
 
 _2023, Jeonju, South Korea_
 
@@ -90,7 +90,7 @@ _2024, Seattle, USA_
 
 _2024, Dublin, Ireland_
 
-<img src="/files/2024-Dublin-Ireland.JPG" width="700">
+<img src="/files/2024-Dublin-Ireland.jpeg" width="700">
 
 _2024, Powerscourt Fall, Ireland_
 
@@ -98,11 +98,11 @@ _2024, Powerscourt Fall, Ireland_
 
 _2024, Bray, Ireland_
 
-<img src="/files/2024-Wicklow-Ireland.JPG" width="700">
+<img src="/files/2024-Wicklow-Ireland.jpeg" width="700">
 
 _2025, Bray, Ireland_
 
-<img src="/files/2025-Bray-Ireland.JPG" width="700">
+<img src="/files/2025-Bray-Ireland.jpeg" width="700">
 
 _2025, Sky Road, Ireland_
 
@@ -114,7 +114,7 @@ _2025, Valencia, Spain_
 
 _2025, Madrid, Spain_
 
-<img src="/files/2025-Madrid-Spain1.jpeg" width="700">
+<img src="/files/2025-Madrid-Spain1.JPG" width="700">
 
 _2025, Madrid, Spain_
 
@@ -126,7 +126,7 @@ _2025, Munich, Germany_
 
 _2025, Giant's Causeway, Northern Ireland_
 
-<img src="/files/2025-Causeway-UK.JPG" width="700">
+<img src="/files/2025-Causeway-UK.jpeg" width="700">
 
 _2025, Kilkee Cliff, Ireland_
 
@@ -134,7 +134,7 @@ _2025, Kilkee Cliff, Ireland_
 
 _2025, The Cliff of Moher, Ireland_
 
-<img src="/files/2025-Clare-Ireland3.JPG" width="700">
+<img src="/files/2025-Clare-Ireland3.jpeg" width="700">
 
 _2025, Clare, Ireland_
 
