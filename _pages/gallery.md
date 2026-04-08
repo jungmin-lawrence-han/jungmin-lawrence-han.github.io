@@ -20,7 +20,7 @@ _2014, Beijing, China_
 
 <img src="/files/2014-Beijing-China.JPG" width="600">
 
-_2015, Beijing, China_
+_2015, The Great Wall, China_
 
 <img src="/files/2015-Beijing.JPG" width="600">
 
@@ -32,7 +32,7 @@ _2015, Harbin, China_
 
 <img src="/files/2015-Harbin-China.JPG" width="600">
 
-_2015, Beijing, China_
+_2015, Peking University, China_
 
 <img src="/files/2015-PKU-Beijing.JPG" width="600">
 
@@ -52,7 +52,7 @@ _2017, Singapore_
 
 <img src="/files/2017-Singapore.JPG" width="600">
 
-_2018, Pittsburgh, USA_
+_2018, University of Pittsburgh, USA_
 
 <img src="/files/2018-Pitt-USA.png" width="600">
 
@@ -86,10 +86,6 @@ _2021, Pittsburgh, USA_
 
 _2021, Pittsburgh, USA_
 
-<img src="/files/2021-Pitt-USA4.png" width="600">
-
-_2021, Pittsburgh, USA_
-
 <img src="/files/2021-Pitt-USA5.png" width="600">
 
 _2021, Orlando, USA_
@@ -104,11 +100,11 @@ _2023, Pittsburgh, USA_
 
 <img src="/files/2023-Pitt-USA.png" width="600">
 
-_2023, Denver, USA_
+_2023, Denver Botanic Gardens, USA_
 
 <img src="/files/2023-Denver-USA.jpeg" width="600">
 
-_2023, Los Angeles, USA_
+_2023, Los Angeles (Flight View), USA_
 
 <img src="/files/2023-LA-USA.jpeg" width="600">
 
@@ -116,7 +112,7 @@ _2023, Niagara Fall, USA_
 
 <img src="/files/2023-Niagara-USA.jpeg" width="600">
 
-_2023, Washington D.C., USA_
+_2023, The Catholic University of America, USA_
 
 <img src="/files/2023-Washington D.C.-USA.jpeg" width="600">
 
@@ -124,7 +120,7 @@ _2023, Jeonju, South Korea_
 
 <img src="/files/2023-andong-southkorea.png" width="600">
 
-_2024, Pittsburgh, USA_
+_2024, University of Pittsburgh, USA_
 
 <img src="/files/2024-Pitt-USA.png" width="600">
 
@@ -136,7 +132,7 @@ _2024, Seattle, USA_
 
 <img src="/files/2024-Seattle-USA.JPG" width="600">
 
-_2024, Dublin, Ireland_
+_2024, St. Patrick Cathedral, Ireland_
 
 <img src="/files/2024-Dublin-Ireland.jpeg" width="600">
 
@@ -144,11 +140,11 @@ _2024, Powerscourt Fall, Ireland_
 
 <img src="/files/2024-Wicklow-Ireland.JPG" width="600">
 
-_2024, Bray, Ireland_
+_2024, Bray (viewed from Bray Head), Ireland_
 
 <img src="/files/2024-Wicklow-Ireland.jpeg" width="600">
 
-_2025, Bray, Ireland_
+_2025, Bray Seafront, Ireland_
 
 <img src="/files/2025-Bray-Ireland.jpeg" width="600">
 
@@ -156,15 +152,15 @@ _2025, Sky Road, Ireland_
 
 <img src="/files/2025-Galway-Ireland.JPG" width="600">
 
-_2025, Valencia, Spain_
+_2025, Valencia Cathedral, Spain_
 
 <img src="/files/2025-Valencia-Spain.jpeg" width="600">
 
-_2025, Madrid, Spain_
+_2025, Madrid (Flamenco Stage), Spain_
 
 <img src="/files/2025-Madrid-Spain1.JPG" width="600">
 
-_2025, Madrid, Spain_
+_2025, Royal Palace of Madrid, Spain_
 
 <img src="/files/2025-Madrid-Spain2.jpeg" width="600">
 
@@ -180,31 +176,31 @@ _2025, The Cliff of Moher, Ireland_
 
 <img src="/files/2025-Clare-Ireland3.jpeg" width="600">
 
-_2025, Clare, Ireland_
+_2025, Bunratty Castle & Folk Park, Ireland_
 
 <img src="/files/2025-Clare-Ireland2.JPG" width="600">
 
-_2025, Edinburgh, Scotland_
+_2025, Edinburgh Waverley Train Station, Scotland_
 
 <img src="/files/2025-Edinburgh-Scotland1.jpeg" width="600">
 
-_2025, Edinburgh, Scotland_
+_2025, Edinburgh's Calton Hill, Scotland_
 
 <img src="/files/2025-Edinburgh-Scotland2.jpeg" width="600">
 
-_2025, Edinburgh, Scotland_
+_2025, Edinburgh's Calton Hill, Scotland_
 
 <img src="/files/2024-Edinbutgh-Scotland.jpeg" width="600">
 
-_2025, Munich, Germany_
+_2025, Freising Cathedral, Germany_
 
 <img src="/files/2025-Munich-Germany.jpeg" width="600">
 
-_2025, Munich, Germany_
+_2025, Munich Residence, Germany_
 
 <img src="/files/2024-Munich-Germany.jpeg" width="600">
 
-_2025, Munich, Germany_
+_2025, Munich's New Town Hall, Germany_
 
 <img src="/files/2024-Munich-Germany2.jpeg" width="600">
 
