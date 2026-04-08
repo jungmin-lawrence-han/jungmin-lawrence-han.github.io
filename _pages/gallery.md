@@ -52,11 +52,11 @@ _2017, Singapore_
 
 <img src="/files/2017-Singapore.JPG" width="600">
 
-_2018, Pittsburgh_
+_2018, Pittsburgh, USA_
 
 <img src="/files/2018-Pitt-USA.png" width="600">
 
-_2019, Pittsburgh_
+_2019, Pittsburgh, USA_
 
 <img src="/files/2019-Pitt-USA.png" width="600">
 
@@ -68,27 +68,27 @@ _2019, Cleveland, USA_
 
 <img src="/files/2019-Cleveland-USA.JPG" width="600">
 
-_2020, Pittsburgh_
+_2020, Pittsburgh, USA_
 
 <img src="/files/2020-Pitt-USA.png" width="600">
 
-_2021, Pittsburgh_
+_2021, Pittsburgh, USA_
 
 <img src="/files/2021-Pitt-USA.png" width="600">
 
-_2021, Pittsburgh_
+_2021, Pittsburgh, USA_
 
 <img src="/files/2021-Pitt-USA2.png" width="600">
 
-_2021, Pittsburgh_
+_2021, Pittsburgh, USA_
 
 <img src="/files/2021-Pitt-USA3.png" width="600">
 
-_2021, Pittsburgh_
+_2021, Pittsburgh, USA_
 
 <img src="/files/2021-Pitt-USA4.png" width="600">
 
-_2021, Pittsburgh_
+_2021, Pittsburgh, USA_
 
 <img src="/files/2021-Pitt-USA5.png" width="600">
 
@@ -100,7 +100,7 @@ _2022, San Diego, USA_
 
 <img src="/files/2022-SanDiego-USA.jpeg" width="600">
 
-_2023, Pittsburgh_
+_2023, Pittsburgh, USA_
 
 <img src="/files/2023-Pitt-USA.png" width="600">
 
@@ -124,11 +124,11 @@ _2023, Jeonju, South Korea_
 
 <img src="/files/2023-andong-southkorea.png" width="600">
 
-_2024, Pittsburgh_
+_2024, Pittsburgh, USA_
 
 <img src="/files/2024-Pitt-USA.png" width="600">
 
-_2024, Pittsburgh_
+_2024, Pittsburgh, USA_
 
 <img src="/files/2024-Pitt-USA2.png" width="600">
 
