@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website !! I am currently a postdoctoral researcher for [Patterns of Conflict Emergence](https://forecastlab.org) project at [Trinity College Dublin](https://www.tcd.ie/Political_Science/). Also, I am an affiliated faculty member at the [Ford Institute of Human Secruty](https://www.fordinstitute.pitt.edu) (University of Pittsburgh). My research interests center on international rivalry, foreign policy, and political behavior. While studying these topics, I employ quantitative methods including survey experiments and computational text analysis. 
+Welcome to my personal website !! I am currently a postdoctoral researcher for [Patterns of Conflict Emergence](https://forecastlab.org) project at [Trinity College Dublin](https://www.tcd.ie/Political_Science/). Also, I am an affiliated faculty member at the [Ford Institute of Human Secruty](https://www.fordinstitute.pitt.edu) at the University of Pittsburgh. My research interests center on international rivalry, foreign policy, and political behavior. While studying these topics, I employ quantitative methods including survey experiments and computational text analysis. 
 
 I earned my Ph.D. degree in Political Science at the [University of Pittsburgh](https://www.polisci.pitt.edu) with a focus on International Relations and Research Methods. Prior to this, I completed my MA in International Relations from [Peking University](https://www.sis.pku.edu.cn/en/) in Beijing, China, as well as a double-BA degree in Political Science and Economics from [Stony Brook University](https://www.stonybrook.edu) and in Public Administration from the [University of Seoul](https://www.uos.ac.kr/eng/web/main).
 
