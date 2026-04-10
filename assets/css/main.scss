@@ -44,6 +44,6 @@
 
 /* Custom overrides */
 .post a, .about-text a, p a {
-  text-decoration: none;
+  text-decoration: none !important;
   font-weight: bold;
 }
