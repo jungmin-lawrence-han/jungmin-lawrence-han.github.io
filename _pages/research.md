@@ -15,7 +15,7 @@ Why do individuals resist peace with a foreign adversary? Despite repeated attem
 
   * **Han, Jungmin**, "When the Olive Branch Emerges Elsewhere:  Interconnected Rivalries, Extra-Dyadic Cooperation, and Public Support for Peace", [[Working Paper](https://www.dropbox.com/scl/fi/vthwlyfiey2e1g3svj9o0/Han_InternationalLandscape.pdf?rlkey=klnr5dakoc79jwmt8jk3877lj&dl=0)]
 
-  * **Han, Jungmin**, "When the Olive Branch Pays Off at Home: Polarization, Partisan Competence, and Public Support for Peace", [[Working Paper](https://doi.org/10.31235/osf.io/9axge_v1)]
+  * **Han, Jungmin**, "When the Olive Branch Pays Off at Home: Polarization, Partisan Competence, and Public Support for Peace", [[Working Paper](https://osf.io/preprints/socarxiv/9axge_v1)]
 
   * **Han, Jungmin** and Thomas Chadefaux, "Patterns of Cooperation and Public Opinion on Rapprochement"
 
