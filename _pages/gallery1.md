@@ -1,6 +1,6 @@
 ---
-title: "Gallery"
-permalink: /gallery/
+title: "Gallery I"
+permalink: /gallery1/
 author_profile: true
 layout: archive
 ---
