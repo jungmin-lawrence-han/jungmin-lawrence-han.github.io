@@ -20,3 +20,12 @@ author_profile: true
   * _U.S. Foreign Policy in the Asia-Pacific_ (undergraduate), University of Pittsburgh, Spring 2021
 
   * _Content Analysis and Big Data_ (undergraduate), University of Pittsburgh: Spring 2020, Fall 2021
+
+## Teaching Assistant
+
+  * _Research Method in Political Science_ (undergraduate), University of Pittsburgh, Fall 2023 (Yuyang Pu)
+
+  * _Research Method in Political Science_ (undergraduate), University of Pittsburgh, Fall 2022 (Steve E. Finkel)
+
+  * _Research Method in Political Science_ (undergraduate), University of Pittsburgh, Spring 2020 (Steve E. Finkel)
+
