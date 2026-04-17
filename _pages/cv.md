@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 Please see my most updated CV through this [Link](/files/CV_Han_Apr2026_3.pdf) (April 2026).
