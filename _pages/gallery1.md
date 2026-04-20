@@ -6,7 +6,6 @@ layout: archive
 ---
 
 Photographs from my journeys across the world between 2013 and 2024. 
-Each image is a memory of a place, a moment, or a feeling I wanted to hold onto.
 
 _2013, Gangwon, South Korea_
 
