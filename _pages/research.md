@@ -9,9 +9,9 @@ author_profile: true
 
 Why do individuals resist peace with a foreign adversary? Despite repeated attempts at cooperation between rival states, many citizens continue to hold negative perceptions of adversaries and oppose conciliatory policies. My research under this theme examines the socio-psychological barriers that sustain such resistance to peace, which collectively forms the foundation of a broader _book project_ on public opinion on reconciliation with international rivals.
 
- * **Han, Jungmin** (2026). "How Reciprocal Cooperation between International Rivals Shapes Threat Perceptions: Evidence from Inter-Korean Rapprochement in 2018." _Conflict Management and Peace Science_, OnlineFirst. DOI: [[Link](https://doi.org/10.1177/07388942251395480)]
+ * **Han, Jungmin** (2026). "How Reciprocal Cooperation between International Rivals Shapes Threat Perceptions: Evidence from Inter-Korean Rapprochement in 2018." _Conflict Management and Peace Science_, OnlineFirst. [[Link](https://doi.org/10.1177/07388942251395480)]
 
- * **Han, Jungmin**, Xin Han, and Alexander Zhang (2026). "How China’s Multilateral Engagement Shapes Threat Perception Amid Rising Authoritarianism." _Journal of Contemporary China_, Volume 35, Issue 159: 1582-99. DOI: [[Link](https://doi.org/10.1080/10670564.2025.2549103)]
+ * **Han, Jungmin**, Xin Han, and Alexander Zhang (2026). "How China’s Multilateral Engagement Shapes Threat Perception Amid Rising Authoritarianism." _Journal of Contemporary China_, Volume 35, Issue 159: 1582-99. [[Link](https://doi.org/10.1080/10670564.2025.2549103)]
 
   * **Han, Jungmin**, "When the Olive Branch Emerges Elsewhere:  Interconnected Rivalries, Extra-Dyadic Cooperation, and Public Support for Peace", [[Link](https://www.dropbox.com/scl/fi/vthwlyfiey2e1g3svj9o0/Han_InternationalLandscape.pdf?rlkey=klnr5dakoc79jwmt8jk3877lj&dl=0)]
 
