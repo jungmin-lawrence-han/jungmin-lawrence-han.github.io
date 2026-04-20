@@ -21,11 +21,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
-  - title: "Gallery I"
+  - title: "Gallery"
     url: /gallery1/    
-    
-  - title: "Gallery II"
-    url: /gallery2/    
     
   # - title: "CV"
   #   url: /cv-json/
