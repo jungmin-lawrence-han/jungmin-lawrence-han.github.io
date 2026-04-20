@@ -24,7 +24,7 @@ Why do individuals resist peace with a foreign adversary? Despite repeated attem
 My research interests in foreign policy and collaborative engagement with scholars of intrastate conflict have led me to study third-party interventions in civil wars. Under this research theme, I currently have three under-review papers  that examine the causes of foreign intervention and its consequences for rebel governance and civil war duration.
 
   * **Han, Jungmin** and Merve Keskin. "The Dynamics of Competitive Intervention: Multiplicity, Rivalry, and Civil
-War Duration." **R&R** at _Security Studies_. [[Link](https://www.dropbox.com/scl/fi/d4nyx2x0tvf5t4t2l7bfs/Han_Keskin_MultiPartyIntervention.pdf?rlkey=whrsejqw9e40ti3n9h3bpap08&dl=0)]
+War Duration." **R&R** at _Security Studies_. [[Link](/working_paper2/)]
 
   * **Han, Jungmin** and Hyunjung Park. "State Atrocities, Rebel Governance, and Public Opinion on Humanitarian Intervention." _Under Review_. [[Link](https://osf.io/preprints/socarxiv/q7n5j_v2)]
 
@@ -35,6 +35,6 @@ War Duration." **R&R** at _Security Studies_. [[Link](https://www.dropbox.com/sc
 
 My future research will focus on the implications of international security in democratic erosion. Reflecting my broader interests in political behavior, democracy, and social media analysis, I have led two projects that analyze millions of social media posts to demonstrate how digital platforms reproduce enduring forms of political violence during electoral campaigns. Building on these works, I have developed a project, introduced through ISA and BISA conferences in 2025, arguing that the global rise of authoritarian states induces a perceptual shift in which democracy is understood not as a set of liberal principles, but as a collective identity defined through international rivalry. Under such identity-based framing, citizens prioritize symbolic alignment and foreign policy toughness toward authoritarian challengers than on adherence to democratic procedures at home, which legitimizes tolerance for illiberal practices and weakens democratic accountability.
 
-  * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Parliamentary and Local Elections in Türkiye." **R&R** at _European Journal of Political Research_. [[Link](https://www.dropbox.com/scl/fi/98li71yl7nva43legwk0b/Han-et-al.-Gendered-Online-Violence-and-Visibility-in-Electoral-Autocracies.pdf?rlkey=5ekj7ykfu1bmns76a6i2k468d&dl=0)]
+  * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Parliamentary and Local Elections in Türkiye." **R&R** at _European Journal of Political Research_. [[Link]([[Link](/working_paper3/)])]
 
-  * **Han, Jungmin**, Müge Finkel, Dhanaraj Thakur, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "Asymmetries of Vulnerability: How Race and Party Shape Online Violence Targeting Women in the 2024 U.S. Election." [[Link](https://www.dropbox.com/scl/fi/q3efqj3fsru2ilk6eiic5/Han-et-al-2025-Asymmetries-of-Vulnerability.pdf?rlkey=b6nb4kzwpovo13y7p504j97m7&dl=0)]
+  * **Han, Jungmin**, Müge Finkel, Dhanaraj Thakur, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "Asymmetries of Vulnerability: How Race and Party Shape Online Violence Targeting Women in the 2024 U.S. Election." [[Link]([[Link](/working_paper4/)])]
