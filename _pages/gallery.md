@@ -11,6 +11,6 @@ Each image is a memory of a place, a moment, or a feeling I wanted to hold onto.
 
   * Asia Gallery [[Link](/gallery1/)]
 
-  * US Gallery [[Link](/gallery2/)]
-
   * Europe Gallery [[Link](/gallery2/)]
+  
+  * US Gallery [[Link](/gallery3/)]
