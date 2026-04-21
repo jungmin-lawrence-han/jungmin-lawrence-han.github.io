@@ -5,6 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Han, Jungmin** (2025). "How Reciprocal Cooperation between International Rivals Shapes Threat Perceptions: Evidence from Inter-Korean Rapprochement in 2018." _Conflict Management and Peace Science_, OnlineFirst. [[Link](https://doi.org/10.1177/07388942251395480)]
+* **Han, Jungmin** (2025). "How Reciprocal Cooperation between International Rivals Shapes Threat Perceptions: Evidence from Inter-Korean Rapprochement in 2018." _Conflict Management and Peace Science, OnlineFirst_. [[Link](https://doi.org/10.1177/07388942251395480)]
 
-* **Han, Jungmin**, Xin Han, and Alexander Zhang (2026). "How China’s Multilateral Engagement Shapes Threat Perception Amid Rising Authoritarianism." _Journal of Contemporary China_, Volume 35, Issue 159: 1582-99. [[Link](https://doi.org/10.1080/10670564.2025.2549103)]
+* **Han, Jungmin**, Xin Han, and Alexander Zhang (2026). "How China’s Multilateral Engagement Shapes Threat Perception Amid Rising Authoritarianism." _Journal of Contemporary China, 35 (159): 1582-99_. [[Link](https://doi.org/10.1080/10670564.2025.2549103)]
