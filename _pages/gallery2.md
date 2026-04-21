@@ -1,5 +1,5 @@
 ---
-title: "Gallery II"
+title: "Europe Gallery"
 permalink: /gallery2/
 author_profile: true
 layout: archive
