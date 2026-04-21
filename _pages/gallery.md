@@ -9,8 +9,11 @@ Photographs from my journeys across the world.
 Each image is a memory of a place, a moment, or a feeling I wanted to hold onto.
 
 
-2013-24
+Asia Gallery
 [[Gallery 1](/gallery1/)]
 
-2024-26
+US Gallery
+[[Gallery 2](/gallery2/)]
+
+Europe Gallery
 [[Gallery 2](/gallery2/)]
