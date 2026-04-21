@@ -5,6 +5,8 @@ author_profile: true
 layout: archive
 ---
 
+Photographs from my journeys in the United States.
+
 _2018, University of Pittsburgh, USA_
 
 <img src="/files/2018-Pitt-USA.png" width="600">
