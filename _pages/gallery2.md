@@ -5,7 +5,7 @@ author_profile: true
 layout: archive
 ---
 
-Photographs from my journeys across the world between 2024 and 2026. 
+Photographs from my journeys in Europe.
 
 _2024, St. Patrick Cathedral, Ireland_
 
