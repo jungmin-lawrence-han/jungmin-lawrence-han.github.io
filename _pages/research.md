@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## 1 Microfoundation of International Rivalry
+## 1. Microfoundation of International Rivalry
 
 Why do individuals resist peace with a foreign adversary? Despite repeated attempts at cooperation between rival states, many citizens continue to hold negative perceptions of adversaries and oppose conciliatory policies. My research under this theme examines the socio-psychological barriers that sustain such resistance to peace, which collectively forms the foundation of a broader _book project_ on public opinion on reconciliation with international rivals.
 
