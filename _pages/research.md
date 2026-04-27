@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Theme 1: Microfoundation of International Rivalry
+## 1 Microfoundation of International Rivalry
 
 Why do individuals resist peace with a foreign adversary? Despite repeated attempts at cooperation between rival states, many citizens continue to hold negative perceptions of adversaries and oppose conciliatory policies. My research under this theme examines the socio-psychological barriers that sustain such resistance to peace, which collectively forms the foundation of a broader _book project_ on public opinion on reconciliation with international rivals.
 
@@ -20,7 +20,7 @@ Why do individuals resist peace with a foreign adversary? Despite repeated attem
   * **Han, Jungmin** and Thomas Chadefaux. "[Patterns of Cooperation and Public Opinion on Rapprochement](/working_paper5/)."
 
 
-## Theme 2: Foreign Intervention in Civil War
+## 2. Foreign Intervention in Civil War
 
 My research interests in foreign policy and collaborative engagement with scholars of intrastate conflict have led me to study third-party interventions in civil wars. Under this research theme, I currently have three papers that examine the causes of foreign intervention or its consequences for rebel governance and civil war duration.
 
@@ -32,7 +32,7 @@ War Duration](/working_paper2/)." _**R&R** at Security Studies_.
   * **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://doi.org/10.31235/osf.io/vzbhe_v1)." _Under Review_. 
 
 
-## Theme 3: Domestic Politics of International Perception
+## 3. Domestic Politics of International Perception
 
 My research examines how domestic actors construct and respond to the international world through the lens of identity, status, and community membership. Rather than treating publics and institutions as neutral receivers of international information, I show that prior beliefs about who 'we' are and where 'we' stand systematically shape what parts of the world media organizations cover and how citizens interpret the diplomatic signals their leaders send and receive.
 
@@ -41,7 +41,7 @@ My research examines how domestic actors construct and respond to the internatio
 * da Silva, Lucas and **Jungmin Han** and Hyunjung Park. "Which World Gets Covered? Media Ideology and the Geography of Foreign News." _Work in progress_ (Presentations at PSA 2026, MPSA 2026, and EPSS 2026).
 
 
-## Theme 4: Online Violence during Electoral Campaign
+## 4. Online Violence during Electoral Campaign
 
 Reflecting my broader interests in political behavior, democracy, and computational text analysis, I have led two projects that analyze millions of social media posts to demonstrate how digital platforms reproduce political violence during electoral campaigns. These projects connect the structural features of electoral institutions and partisan environments to the mechanisms through which political violence undermines equal participation and erodes democratic accountability.
 
