@@ -32,7 +32,7 @@ War Duration](/working_paper2/)." _**R&R** at Security Studies_.
   * **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://doi.org/10.31235/osf.io/vzbhe_v1)." _Under Review_. 
 
 
-## Theme 3: Identity, Hierarchy, and the Domestic Politics of International Perception
+## Theme 3: Domestic Politics of International Perception
 
 My research examines how domestic actors construct and respond to the international world through the lens of identity, status, and community membership. Rather than treating publics and institutions as neutral receivers of international information, I show that prior beliefs about who 'we' are and where 'we' stand systematically shape what parts of the world media organizations cover and how citizens interpret the diplomatic signals their leaders send and receive.
 
