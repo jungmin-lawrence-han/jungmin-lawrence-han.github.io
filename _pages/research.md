@@ -19,9 +19,10 @@ Why do individuals resist peace with a foreign adversary? Despite repeated attem
 
   * **Han, Jungmin** and Thomas Chadefaux. "[Patterns of Cooperation and Public Opinion on Rapprochement](/working_paper5/)."
 
+
 ## Theme 2: Foreign Intervention in Civil War
 
-My research interests in foreign policy and collaborative engagement with scholars of intrastate conflict have led me to study third-party interventions in civil wars. Under this research theme, I currently have three under-review papers  that examine the causes of foreign intervention and its consequences for rebel governance and civil war duration.
+My research interests in foreign policy and collaborative engagement with scholars of intrastate conflict have led me to study third-party interventions in civil wars. Under this research theme, I currently have three papers that examine the causes of foreign intervention or its consequences for rebel governance and civil war duration.
 
   * **Han, Jungmin** and Merve Keskin. "[The Dynamics of Competitive Intervention: Multiplicity, Rivalry, and Civil
 War Duration](/working_paper2/)." _**R&R** at Security Studies_. 
@@ -31,9 +32,18 @@ War Duration](/working_paper2/)." _**R&R** at Security Studies_.
   * **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://doi.org/10.31235/osf.io/vzbhe_v1)." _Under Review_. 
 
 
-## Theme 3: International Security and Democratic Backsliding
+## Theme 3: Identity, Hierarchy, and the Domestic Politics of International Perception
 
-My future research will focus on the implications of international security in democratic erosion. Reflecting my broader interests in political behavior, democracy, and social media analysis, I have led two projects that analyze millions of social media posts to demonstrate how digital platforms reproduce enduring forms of political violence during electoral campaigns. Building on these works, I have developed a project, introduced through ISA and BISA conferences in 2025, arguing that the global rise of authoritarian states induces a perceptual shift in which democracy is understood not as a set of liberal principles, but as a collective identity defined through international rivalry. Under such identity-based framing, citizens prioritize symbolic alignment and foreign policy toughness toward authoritarian challengers than on adherence to democratic procedures at home, which legitimizes tolerance for illiberal practices and weakens democratic accountability.
+My research examines how domestic actors construct and respond to the international world through the lens of identity, status, and community membership. Rather than treating publics and institutions as neutral receivers of international information, I show that prior beliefs about who 'we' are and where 'we' stand systematically shape what parts of the world media organizations cover and how citizens interpret the diplomatic signals their leaders send and receive.
+
+* **Han, Jungmin** and Minseon Ku. "Protocol Violations, Status Hierarchies, and Public Opinion in Summit Diplomacy." Work in progress (Presentation at MPSA 2026).
+
+* da Silva, Lucas and **Jungmin Han** and Hyunjung Park. "Which World Gets Covered? Media Ideology and the Geography of Foreign News." Work in progress (Presentations at PSA 2026, MPSA 2026, and EPSS 2026).
+
+
+## Theme 4: Online Violence during Electoral Campaign
+
+Reflecting my broader interests in political behavior, democracy, and computational text analysis, I have led two projects that analyze millions of social media posts to demonstrate how digital platforms reproduce political violence during electoral campaigns. These projects connect the structural features of electoral institutions and partisan environments to the mechanisms through which political violence undermines equal participation and erodes democratic accountability.
 
   * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Parliamentary and Local Elections in Türkiye](/working_paper3/)." _**R&R** at European Journal of Political Research_. 
     
