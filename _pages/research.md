@@ -27,9 +27,10 @@ My research interests in foreign policy and collaborative engagement with schola
   * **Han, Jungmin** and Merve Keskin. "[The Dynamics of Competitive Intervention: Multiplicity, Rivalry, and Civil
 War Duration](/working_paper2/)." _**R&R** at Security Studies_. 
 
+  * **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://doi.org/10.31235/osf.io/vzbhe_v1)." _**R&R** at International Interactions_. 
+
   * **Han, Jungmin** and Hyunjung Park. "[State Atrocities, Rebel Governance, and Public Opinion on Humanitarian Intervention](https://osf.io/preprints/socarxiv/q7n5j_v2)." _Under Review_. 
 
-  * **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://doi.org/10.31235/osf.io/vzbhe_v1)." _Under Review_. 
 
 
 ## 3. Domestic Politics of International Perception
