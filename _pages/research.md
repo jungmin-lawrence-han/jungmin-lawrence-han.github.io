@@ -41,6 +41,8 @@ My research examines how domestic actors construct and respond to the internatio
 
 * da Silva, Lucas and **Jungmin Han**. "Which World Gets Covered? Media Ideology and the Geography of Foreign News." _Work in progress_ (Presentations at PSA 2026, MPSA 2026, and EPSS 2026).
 
+* **Han, Jungmin** and Thomas Chadefaux. "Conflict Prediction, Policy Implementation, and Public Opinion." _Work in progress_
+
 
 ## 4. Online Violence during Electoral Campaign
 
