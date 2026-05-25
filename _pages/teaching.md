@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Main Instructor
+## Main Lecturer
 
   * _Research Method in Political Science_ (undergraduate), University of Pittsburgh, Summer 2021 [[Syllabus](/files/Syllabus_PS0700_Summer2021.pdf)]
 
