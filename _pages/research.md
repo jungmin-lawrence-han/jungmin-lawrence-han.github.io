@@ -25,7 +25,7 @@ Why do individuals resist peace with a foreign adversary? Despite repeated attem
 My research interests in foreign policy and collaborative engagement with scholars of intrastate conflict have led me to study third-party interventions in civil wars. Under this research theme, I currently have three papers that examine the causes of foreign intervention or its consequences for rebel governance and civil war duration.
 
   * **Han, Jungmin** and Merve Keskin. "[The Dynamics of Competitive Intervention: Multiplicity, Rivalry, and Civil
-War Duration](/working_paper2/)." _**R&R** at Security Studies_. 
+War Duration](https://osf.io/preprints/socarxiv/hz97r_v1)." _**R&R** at Security Studies_. 
 
   * **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://doi.org/10.31235/osf.io/vzbhe_v1)." _**R&R** at International Interactions_. 
 
