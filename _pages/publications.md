@@ -10,7 +10,7 @@ author_profile: true
 * **Han, Jungmin**, Xin Han, and Alexander Zhang (2026). "[How China’s Multilateral Engagement Shapes Threat Perception Amid Rising Authoritarianism](https://doi.org/10.1080/10670564.2025.2549103)." _Journal of Contemporary China, 35 (159): 1582-99_. 
 
 
-# Under Review (_Revise & Resubmit_)
+## Under Review (_Revise & Resubmit_)
 
 * **Han, Jungmin** and Merve Keskin. "[The Dynamics of Competitive Intervention: Multiplicity, Rivalry, and Civil
 War Duration](/working_paper2/)." _**R&R** at Security Studies_. 
