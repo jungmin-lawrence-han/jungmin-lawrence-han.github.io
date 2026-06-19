@@ -14,7 +14,7 @@ author_profile: true
 ## Under Review (_Revise & Resubmit_)
 
 * **Han, Jungmin** and Merve Keskin. "[The Dynamics of Competitive Intervention: Multiplicity, Rivalry, and Civil
-War Duration](/working_paper2/)." _**R&R** at Security Studies_. 
+War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**R&R** at Security Studies_. 
 
 * **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://doi.org/10.31235/osf.io/vzbhe_v1)." _**R&R** at International Interactions_.
 
