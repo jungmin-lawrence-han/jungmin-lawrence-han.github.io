@@ -13,11 +13,12 @@ Why do individuals resist peace with a foreign adversary? Despite repeated attem
 
  * **Han, Jungmin**, Xin Han, and Alexander Zhang (2026). "[How China’s Multilateral Engagement Shapes Threat Perception Amid Rising Authoritarianism](https://doi.org/10.1080/10670564.2025.2549103)." _Journal of Contemporary China, 35 (159): 1582-99_. 
 
+  * **Han, Jungmin** and Thomas Chadefaux. "[Patterns of Cooperation and Public Opinion on Rapprochement](/working_paper5/)." _Under Review_. 
+
   * **Han, Jungmin**. "[Interconnected Rivalries, Extra-Dyadic Cooperation, and Public Support for Peace](/working_paper1/)." 
 
   * **Han, Jungmin**. "[Polarization, Partisan Competence, and Public Support for Peace](https://osf.io/preprints/socarxiv/9axge_v1)." 
 
-  * **Han, Jungmin** and Thomas Chadefaux. "[Patterns of Cooperation and Public Opinion on Rapprochement](/working_paper5/)."
 
 
 ## 2. Foreign Intervention in Civil War
@@ -49,6 +50,6 @@ Reflecting my broader interests in political behavior, democracy, and computatio
 
   * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Parliamentary and Local Elections in Türkiye](/working_paper3/)." _**Accepted** at European Journal of Political Research_. 
     
-  * **Han, Jungmin**, Müge Finkel, Dhanaraj Thakur, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Asymmetries of Vulnerability: How Race and Party Shape Online Violence Targeting Women in the 2024 U.S. Election](/working_paper4/)."
+  * **Han, Jungmin**, Müge Finkel, Dhanaraj Thakur, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Asymmetries of Vulnerability: How Race and Party Shape Online Violence Targeting Women in the 2024 U.S. Election](/working_paper4/)." _Under Review_. 
 
   * **Han, Jungmin**, Müge Finkel, and Steven Finkel. "Authoritarian Resilience and Electoral Retribution: Online Violence and Gender Vulnerability in Brazil." _Work in Progress_
