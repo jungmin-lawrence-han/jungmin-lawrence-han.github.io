@@ -15,7 +15,7 @@ Why do individuals resist peace with a foreign adversary? Despite repeated attem
 
   * **Han, Jungmin** and Thomas Chadefaux. "[Patterns of Cooperation and Public Opinion on Rapprochement](https://osf.io/preprints/socarxiv/dpf92_v1)." _Under Review_. 
 
-  * **Han, Jungmin**. "[Networkd Rivalries, Enemy Image, and Public Resistance to Peace](/working_paper1/)." _Under Review_.
+  * **Han, Jungmin**. "[Networkd Rivalries, Enemy Image, and Public Resistance to Peace](https://osf.io/preprints/socarxiv/6ub2e_v1)." _Under Review_.
 
   * **Han, Jungmin**. "[Polarization, Partisan Competence, and Public Support for Peace](https://osf.io/preprints/socarxiv/9axge_v1)."
 
