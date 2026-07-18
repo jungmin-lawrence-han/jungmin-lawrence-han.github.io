@@ -17,8 +17,9 @@ Why do individuals resist peace with a foreign adversary? Despite repeated attem
 
   * **Han, Jungmin**. "[Networkd Rivalries, Enemy Image, and Public Resistance to Peace](/working_paper1/)." _Under Review_.
 
-  * **Han, Jungmin**. "[Polarization, Partisan Competence, and Public Support for Peace](https://osf.io/preprints/socarxiv/9axge_v1)." 
+  * **Han, Jungmin**. "[Polarization, Partisan Competence, and Public Support for Peace](https://osf.io/preprints/socarxiv/9axge_v1)."
 
+  * **Han, Jungmin** and Junjie Liu. "U.S. Retreat from the Liberal International Order and Nationalism in China." _Work in progress_ 
 
 
 ## 2. Foreign Intervention in Civil War
