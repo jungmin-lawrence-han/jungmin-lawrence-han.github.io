@@ -36,7 +36,7 @@ War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**
 
 ## 3. Domestic Politics of International Perception
 
-My research examines how domestic actors construct and respond to the international world through the lens of identity, status, and community membership. Rather than treating publics and institutions as neutral receivers of international information, I show that prior beliefs about who 'we' are and where 'we' stand systematically shape what parts of the world media organizations cover and how citizens interpret the diplomatic signals their leaders send and receive.
+My research examines how domestic actors construct and respond to the international world through the lens of identity and international status. Rather than treating publics as neutral receivers of information on foreign affairs, I show that prior beliefs about who 'we' are and where 'we' stand systematically shape what parts of the world media organizations cover and how citizens interpret the diplomatic signals their leaders send and receive.
 
 * da Silva, Lucas and **Jungmin Han**. "[Which World Gets Covered? Media Ideology and the Geography of Foreign News](/working_paper6/)." _Work in progress_ (Presentations at PSA 2026, MPSA 2026, and EPSS 2026).
 
