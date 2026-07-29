@@ -31,7 +31,9 @@ War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**
 
   * **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://osf.io/preprints/socarxiv/vzbhe_v2)." _**R&R** at International Interactions_. 
 
-  * **Han, Jungmin** and Hyunjung Park. "[State Atrocities, Rebel Governance, and Public Opinion on Humanitarian Intervention](https://osf.io/preprints/socarxiv/q7n5j_v3)." _Under Review_. 
+  * **Han, Jungmin** and Hyunjung Park. "[State Atrocities, Rebel Governance, and Public Opinion on Humanitarian Intervention](https://osf.io/preprints/socarxiv/q7n5j_v3)." _Under Review_.
+  
+  * **Han, Jungmin** and Thomas Chadefaux. "Can Machines Help Humans Save Lives?: Conflict Forecasting and Public Support for Preventive Humanitarian Intervention." _Work in progress_
 
 
 ## 3. Domestic Politics of International Perception
@@ -41,9 +43,6 @@ My research examines how domestic actors construct and respond to the internatio
 * da Silva, Lucas and **Jungmin Han**. "[Which World Gets Covered? Media Ideology and the Geography of Foreign News](/working_paper6/)." _Under Review_.
 
 * **Han, Jungmin** and Minseon Ku. "Protocol Violations, Status Hierarchies, and Public Opinion in Summit Diplomacy." _Work in progress_ (Presentation at MPSA 2026).
-
-* **Han, Jungmin** and Thomas Chadefaux. "Conflict Prediction, Policy Implementation, and Public Opinion." _Work in progress_
-
 
 ## 4. Online Violence during Electoral Campaign
 
