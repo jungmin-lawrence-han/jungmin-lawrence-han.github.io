@@ -13,7 +13,7 @@ Why do individuals resist peace with a foreign adversary? Despite repeated attem
 
  * **Han, Jungmin**, Xin Han, and Alexander Zhang (2026). "[How China’s Multilateral Engagement Shapes Threat Perception Amid Rising Authoritarianism](https://doi.org/10.1080/10670564.2025.2549103)." _Journal of Contemporary China, 35 (159): 1582-99_. 
 
-  * **Han, Jungmin** and Thomas Chadefaux. "[Patterns of Cooperation and Public Opinion on Rapprochement](https://osf.io/preprints/socarxiv/dpf92_v1)." _Under Review_. 
+  * **Han, Jungmin** and Thomas Chadefaux. "[Seqeuncing Peace: How Patterns of Cooperation Shape Public Opinion on Rapprochement](https://osf.io/preprints/socarxiv/dpf92_v1)." _Under Review_. 
 
   * **Han, Jungmin**. "[Networkd Rivalries, Enemy Image, and Public Resistance to Peace](https://osf.io/preprints/socarxiv/6ub2e_v1)." _Under Review_.
 
