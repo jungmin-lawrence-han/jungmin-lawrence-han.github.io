@@ -11,12 +11,12 @@ author_profile: true
 
 * **Han, Jungmin**, Xin Han, and Alexander Zhang (2026). "[How China’s Multilateral Engagement Shapes Threat Perception Amid Rising Authoritarianism](https://doi.org/10.1080/10670564.2025.2549103)." _Journal of Contemporary China, 35 (159): 1582-99_.
 
-## Under Review (_Revise & Resubmit_)
+## Invited for Revise & Resubmit
 
 * **Han, Jungmin** and Merve Keskin. "[The Dynamics of Competitive Intervention: Multiplicity, Rivalry, and Civil
 War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**R&R** at Security Studies_. 
 
-* **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://doi.org/10.31235/osf.io/vzbhe_v1)." _**R&R** at International Interactions_.
+* **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://osf.io/preprints/socarxiv/vzbhe_v2)." _**R&R** at International Interactions_.
 
 
     
