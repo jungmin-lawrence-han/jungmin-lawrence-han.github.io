@@ -89,7 +89,7 @@ _2026, Oxford, UK_
 
 _2026, Dalkey Island, Ireland_
 
-<img src="/files/2026-DalkyIsland.jpg" width="600">
+<img src="/files/2026-DalkyIsland.JPG" width="600">
 
 _2026, Glendalough, Ireland_
 
