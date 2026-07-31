@@ -87,6 +87,30 @@ _2026, Oxford, UK_
 
 <img src="/files/2026-Oxford-UK.jpeg" width="600">
 
-_2026, Oxford, UK_
+_2026, Dalkey Island, Ireland_
 
-<img src="/files/2026-Oxford-UK2.jpeg" width="600">
+<img src="/files/2026-DalkyIsland.jpg" width="600">
+
+_2026, Glendalough, Ireland_
+
+<img src="/files/2026-Glendalough.jpeg" width="600">
+
+_2026, Bray, Ireland_
+
+<img src="/files/2026-Bray-Swim.jpeg" width="600">
+
+_2026, Bray (with a huge yoga group), Ireland_
+
+<img src="/files/2026-Bray-Yoga.jpeg" width="600">
+
+_2026, Bray (sadly, with wild fire), Ireland_
+
+<img src="/files/2026-Bray-Fire.jpeg" width="600">
+
+_2026, Wicklow Mountains National Park, Ireland_
+
+<img src="/files/2026-WicklowMountains.jpeg" width="600">
+
+_2026, Wicklow Mountains National Park, Ireland_
+
+<img src="/files/2026-WicklowMountains2.jpeg" width="600">
