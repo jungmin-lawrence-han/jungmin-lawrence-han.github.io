@@ -40,7 +40,7 @@ War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**
 
 My research examines how domestic actors construct and respond to the international world through the lens of identity and international status. Rather than treating publics as neutral receivers of information on foreign affairs, I show that prior beliefs about who 'we' are and where 'we' stand systematically shape what parts of the world media organizations cover and how citizens interpret the diplomatic signals their leaders send and receive.
 
-* da Silva, Lucas and **Jungmin Han**. "[Which World Gets Covered? Media Ideology and the Geography of Foreign News](/working_paper6/)." _Under Review_.
+* da Silva, Lucas and **Jungmin Han**. "[Which World Gets Covered? Media Ideology and the Geography of Foreign News](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7211478)." _Under Review_.
 
 * **Han, Jungmin** and Minseon Ku. "Protocol Violations, Status Hierarchies, and Public Opinion in Summit Diplomacy." _Work in progress_ (Presentation at MPSA 2026).
 
