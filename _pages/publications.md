@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Parliamentary and Local Elections in Türkiye](/working_paper3/)." _**Accepted** at European Journal of Political Research_. 
+* **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Parliamentary and Local Elections in Türkiye](https://doi.org/10.1017/S1475676526101650)." _**FirstView** at European Journal of Political Research_. 
 
 * **Han, Jungmin** (2025). "[How Reciprocal Cooperation between International Rivals Shapes Threat Perceptions: Evidence from Inter-Korean Rapprochement in 2018](https://doi.org/10.1177/07388942251395480)." _Conflict Management and Peace Science, OnlineFirst_. 
 
