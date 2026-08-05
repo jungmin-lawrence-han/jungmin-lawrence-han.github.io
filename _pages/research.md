@@ -48,7 +48,7 @@ My research examines how domestic actors construct and respond to the internatio
 
 Reflecting my broader interests in political behavior, democracy, and computational text analysis, I have led two projects that analyze millions of social media posts to demonstrate how digital platforms reproduce political violence during electoral campaigns. These projects connect the structural features of electoral institutions and partisan environments to the mechanisms through which political violence undermines equal participation and erodes democratic accountability.
 
-  * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Multi-level Elections in Türkiye](/working_paper3/)." _**Forthcoming** at European Journal of Political Research_. 
+  * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Multi-level Elections in Türkiye](https://doi.org/10.1017/S1475676526101650)." _**FirstView** at European Journal of Political Research_. 
     
   * **Han, Jungmin**, Müge Finkel, Dhanaraj Thakur, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Asymmetry of Vulnerabilities: How Party Lines Shape Racialized Online Violence against Women in the 2024 U.S. Election](/working_paper4/)." _Under Review_. 
 
