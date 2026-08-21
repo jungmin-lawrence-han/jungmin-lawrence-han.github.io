@@ -50,6 +50,6 @@ Reflecting my broader interests in political behavior, democracy, and computatio
 
   * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük (2026). "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Multi-level Elections in Türkiye](https://doi.org/10.1017/S1475676526101650)." **FirstView** at _European Journal of Political Research_. 
     
-  * **Han, Jungmin**, Müge Finkel, Dhanaraj Thakur, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Asymmetry of Vulnerabilities: How Party Lines Shape Racialized Online Violence against Women in the 2024 U.S. Election](/working_paper4/)." _Under Review_. 
+  * **Han, Jungmin**, Müge Finkel, Dhanaraj Thakur, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Asymmetry of Vulnerabilities: How Party Lines Shape Racialized Online Violence against Women in the 2024 U.S. Election](https://doi.org/10.2139/ssrn.7306698)." _Under Review_. 
 
   * **Han, Jungmin**, Müge Finkel, and Steven Finkel. "Authoritarian Resilience and Electoral Retribution: Online Violence and Gender Vulnerability in Brazil." _Work in Progress_
