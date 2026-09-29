@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research examines how international conflict and security competition shape political attitudes and democratic politics, with a regional focus on East Asia. I develop this agenda through three questions: (1) why democratic citizens resist reconciliation with foreign adversaries, (2) how foreign intervention affects conflict processes and political institutions, (3) how digital environments shape democratic representation and public discourse on foreign affairs. Looking ahead, I will examine how authoritarian threats reshape democratic attitudes and resilience in East Asia. While studying these three topics, I employ quantitative methods, such as longitudinal analysis, survey experiments, and computational text analysis.
+My research examines how international conflict and security competition shape political attitudes and democratic politics, with a regional focus on East Asia. I develop this agenda through three questions: (1) why democratic citizens resist reconciliation with foreign adversaries, (2) how foreign intervention affects conflict processes and political institutions, (3) how digital environments shape democratic representation and public discourse on foreign affairs. Looking ahead, I will examine how authoritarian threats reshape democratic attitudes and resilience in East Asia. While studying these topics, I employ quantitative methods, such as longitudinal analysis, survey experiments, and computational text analysis.
 
 ## 1. Public Resistance to Reconciliation in East Asia
 
