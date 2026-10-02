@@ -11,12 +11,10 @@ My research examines how international conflict and security competition shape p
 
 _Why does the public resist reconciliation with foreign adversaries?_ Despite repeated attempts at interstate cooperation and rapprochement in East Asia, many citizens continue to perceive adversaries negatively and oppose conciliatory policies. My research under this theme examines the socio-psychological mechanisms that sustain these hostile perceptions and limit public support for peace in the region.
 
-<!-- 
  * **Han, Jungmin** (2025). "[How Reciprocal Cooperation between International Rivals Shapes Threat Perceptions: Evidence from Inter-Korean Rapprochement in 2018](https://doi.org/10.1177/07388942251395480)." **OnlineFirst** at _Conflict Management and Peace Science_. 
 
- * **Han, Jungmin**, Xin Han, and Alexander Zhang (2026). "[How China’s Multilateral Engagement Shapes Threat Perception Amid Rising Authoritarianism](https://doi.org/10.1080/10670564.2025.2549103)." _Journal of Contemporary China, 35 (159): 1582-99_. 
- -->
-
+ * **Han, Jungmin**, Xin Han, and Alexander Zhang (2026). "[How China’s Multilateral Engagement Shapes Threat Perception Amid Rising Authoritarianism](https://doi.org/10.1080/10670564.2025.2549103)." _Journal of Contemporary China, 35 (159): 1582-99_.
+   
   * **Han, Jungmin** and Thomas Chadefaux. "[Seqeuncing Peace: How Patterns of Cooperation Shape Public Opinion on Rapprochement](https://osf.io/preprints/socarxiv/dpf92_v1)." _Under Review_. 
 
   * **Han, Jungmin**. "[Networkd Rivalries, Enemy Image, and Public Resistance to Peace](https://osf.io/preprints/socarxiv/6ub2e_v1)." _Under Review_.
@@ -44,9 +42,8 @@ War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**
 
 Reflecting my broader interests in political behavior, democracy, and computational text analysis, I also develop a research agenda on _how digital environments shape democratic representation and public discourse on foreign affairs_. Across these projects, I examine how online platforms and media systems structure political visibility, exposure, and interpretation, with consequences for both democratic participation and foreign-policy attitudes.
 
-<!-- 
+
   * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük (2026). "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Multi-level Elections in Türkiye](https://doi.org/10.1017/S1475676526101650)." **FirstView** at _European Journal of Political Research_. 
--->
     
   * **Han, Jungmin**, Müge Finkel, Dhanaraj Thakur, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Asymmetry of Vulnerabilities: How Party Lines Shape Racialized Online Violence against Women in the 2024 U.S. Election](https://doi.org/10.2139/ssrn.7306698)." _Under Review_. 
 
