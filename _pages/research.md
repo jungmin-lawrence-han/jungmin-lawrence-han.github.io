@@ -23,6 +23,7 @@ _Why does the public resist reconciliation with foreign adversaries?_ Despite re
 
   * **Han, Jungmin**. "The Tastes of Peace: How International Rapprochement Shapes Everyday Life." _Work in progress_ 
 
+  * **Han, Jungmin** and Minseon Ku. "Protocol Violations, Status Hierarchies, and Public Opinion in Summit Diplomacy." _Work in progress_ (Presentation at MPSA 2026).
 
 ## 2. Foreign Intervention and the Politics of Civil Conflict
 
@@ -42,20 +43,16 @@ War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**
 
 Reflecting my broader interests in political behavior, democracy, and computational text analysis, I also develop a research agenda on _how digital environments shape democratic representation and public discourse on foreign affairs_. Across these projects, I examine how online platforms and media systems structure political visibility, exposure, and interpretation, with consequences for both democratic participation and foreign-policy attitudes.
 
-
   * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük (2026). "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Multi-level Elections in Türkiye](https://doi.org/10.1017/S1475676526101650)." **FirstView** at _European Journal of Political Research_. 
     
   * **Han, Jungmin**, Müge Finkel, Dhanaraj Thakur, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Asymmetry of Vulnerabilities: How Party Lines Shape Racialized Online Violence against Women in the 2024 U.S. Election](https://doi.org/10.2139/ssrn.7306698)." **R&R** at _Political Behavior_. 
 
   * da Silva, Lucas and **Jungmin Han**. "[Which World Gets Covered? Media Ideology and the Geography of Foreign News](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7211478)." _Under Review_.
 
-  * **Han, Jungmin** and Junjie Liu. "U.S. Coercive Foreign Policy and Hawkish Attitudes in Chinese Social Media." _Work in progress_ 
-
- <!-- 
-  * **Han, Jungmin** and Minseon Ku. "Protocol Violations, Status Hierarchies, and Public Opinion in Summit Diplomacy." _Work in progress_ (Presentation at MPSA 2026).
+  * **Han, Jungmin** and Junjie Liu. "U.S. Coercive Foreign Policy and Hawkish Attitudes in Chinese Social Media." _Work in progress_
 
   * **Han, Jungmin**, Müge Finkel, and Steven Finkel. "Authoritarian Resilience and Electoral Retribution: Online Violence and Gender Vulnerability in Brazil." _Work in Progress_
- -->
+
   
 ## 4. International Security and Democratic Politics in East Asia
 
