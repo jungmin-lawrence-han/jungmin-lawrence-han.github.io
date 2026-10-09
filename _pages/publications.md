@@ -17,4 +17,6 @@ author_profile: true
 War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**R&R** at Security Studies_. 
 
 * **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://osf.io/preprints/socarxiv/vzbhe_v2)." _**R&R** at International Interactions_.
+
+* **Han, Jungmin**, Müge Finkel, Dhanaraj Thakur, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Asymmetry of Vulnerabilities: How Party Lines Shape Racialized Online Violence against Women in the 2024 U.S. Election](https://doi.org/10.2139/ssrn.7306698)." **R&R** at _Political Behavior_. 
     
