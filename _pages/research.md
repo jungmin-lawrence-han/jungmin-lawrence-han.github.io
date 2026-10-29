@@ -34,7 +34,7 @@ War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**
 
   * **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://osf.io/preprints/socarxiv/vzbhe_v2)." _**R&R** at International Interactions_. 
 
-  * **Han, Jungmin** and Hyunjung Park. "[State Atrocities, Rebel Governance, and Public Opinion on Humanitarian Intervention](https://osf.io/preprints/socarxiv/q7n5j_v3)." _Under Review_.
+  * **Han, Jungmin** and Hyunjung Park. "[State Atrocities, Rebel Governance, and Public Opinion on Humanitarian Intervention](https://osf.io/preprints/socarxiv/q7n5j_v4)." _Under Review_.
   
   * **Han, Jungmin** and Thomas Chadefaux. "Can Machines Help Humans Save Lives?: Conflict Forecasting and Public Support for Preventive Humanitarian Intervention." _Work in progress_
 
