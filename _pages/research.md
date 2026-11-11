@@ -43,11 +43,11 @@ War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**
 
 Reflecting my broader interests in political behavior, democracy, and computational text analysis, I also develop a research agenda on _how digital environments shape democratic representation and public discourse on foreign affairs_. Across these projects, I examine how online platforms and media systems structure political visibility, exposure, and interpretation, with consequences for both democratic participation and foreign-policy attitudes.
 
-  * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük (2026). "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Multi-level Elections in Türkiye](https://doi.org/10.1017/S1475676526101650)." **FirstView** at _European Journal of Political Research_. 
+  * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük (2026). "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Multi-level Elections in Türkiye](https://doi.org/10.1017/S1475676526101650)." **FirstView** at _European Journal of Political Research_.
+
+  * da Silva, Lucas and **Jungmin Han**. "[Which World Gets Covered? Media Ideology and the Geography of Foreign News](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7211478)."  **R&R** at _Political Communication_.
     
   * **Han, Jungmin**, Müge Finkel, Dhanaraj Thakur, Steven Finkel, Fırat Duruşan, and Erdem Yörük. "[Asymmetry of Vulnerabilities: How Party Lines Shape Racialized Online Violence against Women in the 2024 U.S. Election](https://doi.org/10.2139/ssrn.7306698)." **R&R** at _Political Behavior_. 
-
-  * da Silva, Lucas and **Jungmin Han**. "[Which World Gets Covered? Media Ideology and the Geography of Foreign News](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7211478)." _Under Review_.
 
   * **Han, Jungmin** and Junjie Liu. "U.S. Coercive Foreign Policy and Hawkish Attitudes in Chinese Social Media." _Work in progress_
 
