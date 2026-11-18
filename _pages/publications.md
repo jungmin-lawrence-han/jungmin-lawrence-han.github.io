@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+* **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://osf.io/preprints/socarxiv/vzbhe_v2)." _**Conditionally Accepted** at International Interactions_.
+
 * **Han, Jungmin**, Müge Finkel, Steven Finkel, Fırat Duruşan, and Erdem Yörük (2026). "[Online Gendered Violence and Visibility in Electoral Autocracies: Evidence from Parliamentary and Local Elections in Türkiye](https://doi.org/10.1017/S1475676526101650)." **FirstView** at _European Journal of Political Research_. 
 
 * **Han, Jungmin** (2026). "[How Reciprocal Cooperation between International Rivals Shapes Threat Perceptions: Evidence from Inter-Korean Rapprochement in 2018](https://doi.org/10.1177/07388942251395480)." _Conflict Management and Peace Science_, 43 (5): 543–566. 
@@ -15,8 +18,6 @@ author_profile: true
 
 * **Han, Jungmin** and Merve Keskin. "[The Dynamics of Competitive Intervention: Multiplicity, Rivalry, and Civil
 War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**R&R** at Security Studies_. 
-
-* **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://osf.io/preprints/socarxiv/vzbhe_v2)." _**R&R** at International Interactions_.
 
 * da Silva, Lucas and **Jungmin Han**. "[Which World Gets Covered? Media Ideology and the Geography of Foreign News](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7211478)."  **R&R** at _Political Communication_.
 
