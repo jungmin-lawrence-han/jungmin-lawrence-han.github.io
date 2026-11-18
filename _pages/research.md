@@ -29,10 +29,10 @@ _Why does the public resist reconciliation with foreign adversaries?_ Despite re
 
 A second strand of my research examines _how foreign intervention reshapes conflict dynamics, political institutions, and public attitudes during civil wars_. This work extends my broader interest in the domestic consequences of international politics by asking how the identity and behavior of external actors affect bargaining among armed groups, rebel governance, and public support for intervention. 
 
+* **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://osf.io/preprints/socarxiv/vzbhe_v2)." _**Conditionally Accepted** at International Interactions_. 
+
   * **Han, Jungmin** and Merve Keskin. "[The Dynamics of Competitive Intervention: Multiplicity, Rivalry, and Civil
 War Duration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6809363)." _**R&R** at Security Studies_. 
-
-  * **Han, Jungmin** and Hyunjung Park. "[Democratic Imprints from Abroad: How External Support from Democracies Promotes Rebel Election in Civil Wars](https://osf.io/preprints/socarxiv/vzbhe_v2)." _**R&R** at International Interactions_. 
 
   * **Han, Jungmin** and Hyunjung Park. "[State Atrocities, Rebel Governance, and Public Opinion on Humanitarian Intervention](https://osf.io/preprints/socarxiv/q7n5j_v4)." _Under Review_.
   
